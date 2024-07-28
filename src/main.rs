@@ -3,3 +3,8 @@ fn main() {
 
     println!("Hello, singgihpr!");
 }
+
+#[test]
+fn hello_test(){
+    println!("Hello Test");
+}
